@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "question": "Javascript is an _______ language",
+    "options": ["Object-Oriented", "Object-Based", "Procedural"]
+  },
+  {
+    "id": 2,
+    "question": "Following methods can be used to display data in some form using Javascript",
+    "options": ["document.write()", "console.log()", "window.alert()"]
+  },
+  {
+    "id": 3,
+    "question": "When an operator value is NULL, the typeof returned by the unary operator is:",
+    "options": ["Boolean", "Undefined", "Object"]
+  },
+  {
+    "id": 4,
+    "question": "What does the toString() method return?",
+    "options": ["Return Object", "Return String", "Return Integer"]
+  },
+  {
+    "id": 5,
+    "question": "Which function is used to serialize an object into a JSON string?",
+    "options": ["stringify()", "parse()", "convert()"]
+  },
+  {
+    "id": 6,
+    "question": "What is the result of the following expression: '5' + 3?",
+    "options": ["'53'", "8", "'8'"]
+  },
+  {
+    "id": 7,
+    "question": "Which keyword is used to declare variables in JavaScript?",
+    "options": ["var", "let", "const"]
+  },
+  {
+    "id": 8,
+    "question": "What is the output of console.log(typeof [])?",
+    "options": ["'array'", "'object'", "'undefined'"]
+  },
+  {
+    "id": 9,
+    "question": "What is the purpose of the 'use strict' directive in JavaScript?",
+    "options": [
+      "To enable strict mode",
+      "To disable strict mode",
+      "To declare a string as strict"
+    ]
+  },
+  {
+    "id": 10,
+    "question": "What is the output of console.log(2 + '2')?",
+    "options": ["'22'", "4", "'4'"]
+  },
+  {
+    "id": 11,
+    "question": "Which method is used to remove the last element from an array in JavaScript?",
+    "options": ["pop()", "shift()", "splice()"]
+  },
+  {
+    "id": 12,
+    "question": "What is the correct syntax for a 'for' loop in JavaScript?",
+    "options": [
+      "for (var i = 0; i < 5; i++)",
+      "for (i = 0; i < 5; i++)",
+      "for (i < 5; i++)"
+    ]
+  },
+  {
+    "id": 13,
+    "question": "What does the 'typeof' operator return for 'null'?",
+    "options": ["'null'", "'undefined'", "'object'"]
+  },
+  {
+    "id": 14,
+    "question": "What is the output of console.log(3 === '3')?",
+    "options": ["true", "false", "undefined"]
+  },
+  {
+    "id": 15,
+    "question": "Which JavaScript method is used to join two or more arrays?",
+    "options": ["concat()", "join()", "merge()"]
+  },
+  {
+    "id": 16,
+    "question": "What is the result of console.log(2 ** 3)?",
+    "options": ["6", "8", "2"]
+  },
+  {
+    "id": 17,
+    "question": "What is the output of console.log(NaN === NaN)?",
+    "options": ["true", "false", "undefined"]
+  },
+  {
+    "id": 18,
+    "question": "What is the result of console.log(Math.max())?",
+    "options": ["0", "Infinity", "undefined"]
+  },
+  {
+    "id": 19,
+    "question": "Which function is used to return the length of a string in JavaScript?",
+    "options": ["length()", "size()", "charAt()"]
+  },
+  {
+    "id": 20,
+    "question": "What is the output of console.log(typeof NaN)?",
+    "options": ["'number'", "'NaN'", "'undefined'"]
+  }
+]
